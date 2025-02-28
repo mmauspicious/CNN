@@ -1,4 +1,4 @@
-**Problem 5 : Concrete Defect**  
+**Problem 5 : Concrete Defect Image Classification**  
 
 **Using Convolutional Neural Network (CNN) on Kaggle dataset [1].**
 
