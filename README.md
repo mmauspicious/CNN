@@ -11,15 +11,10 @@ Concrete offers several notable advantages: its high compressive strength, malle
 
 
 Concrete failures are typically categorized based on their underlying causes:
-
-Chemical Failures: These involve reactions that degrade the concrete's composition, including sulfate attacks, steel corrosion, carbonation, and alkaline reactions with aggregates.
-
-Physical Failures: This category includes damage from environmental and mechanical factors such as repeated freeze-thaw cycles, erosion, cavitation, salt infiltration, fire, impact, and other adverse conditions.
-
-Execution Errors: Failures here arise from mistakes during concrete production and placement. Common issues include using uniform or inappropriate grading, improper storage of raw materials, selecting the wrong type or amount of cement, inadequate compaction, faulty processing, and excessive water in the mix.
-
-
-
-[1] https://www.kaggle.com/datasets/datastrophy/concrete-train-test-split-dataset.
+- Chemical Failures: These involve reactions that degrade the concrete's composition, including sulfate attacks, steel corrosion, carbonation, and alkaline reactions with aggregates.
+- Physical Failures: This category includes damage from environmental and mechanical factors such as repeated freeze-thaw cycles, erosion, cavitation, salt infiltration, fire, impact, and other adverse conditions.
+- Execution Errors: Failures here arise from mistakes during concrete production and placement. Common issues include using uniform or inappropriate grading, improper storage of raw materials, selecting the wrong type or amount of cement, inadequate compaction, faulty processing, and excessive water in the mix.
 
 This project is inspired by [https://www.tensorflow.org/tutorials/images/classification].
+
+[1] https://www.kaggle.com/datasets/datastrophy/concrete-train-test-split-dataset.
