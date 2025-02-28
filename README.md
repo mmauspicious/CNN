@@ -13,6 +13,8 @@ Concrete failures are typically categorized based on their underlying causes:
 - Physical Failures: This category includes damage from environmental and mechanical factors such as repeated freeze-thaw cycles, erosion, cavitation, salt infiltration, fire, impact, and other adverse conditions.
 - Execution Errors: Failures here arise from mistakes during concrete production and placement. Common issues include using uniform or inappropriate grading, improper storage of raw materials, selecting the wrong type or amount of cement, inadequate compaction, faulty processing, and excessive water in the mix.
 
+Convolutional Neural Networks (CNNs) are a class of deep learning models designed primarily for processing grid-like data, such as images. A key advantage of CNNs is their ability to learn salient features directly from raw pixel data, significantly reducing—or even eliminating—the need for extensive pre-processing. Traditional image processing methods often rely on filters manually designed by engineers using heuristic techniques, whereas CNNs automatically optimize these filters during training, streamlining the development process.
+
 This project is inspired by [https://www.tensorflow.org/tutorials/images/classification].
 
 [1] https://www.kaggle.com/datasets/datastrophy/concrete-train-test-split-dataset.
