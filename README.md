@@ -10,8 +10,6 @@ A primary cause of concrete failure is an inadequate bearing capacity coupled wi
 
 Concrete offers several notable advantages: its high compressive strength, malleability, and durability make it ideal for earthquake-resistant buildings, while its inherent heat and sound insulation properties and versatile mold applications further contribute to its appeal. Additionally, concrete is cost-effective, readily available, compatible with steel due to similar thermal expansion coefficients, and exhibits excellent fire resistance. Nonetheless, concrete also presents challenges. Its low tensile strength, tendency for expansion and contraction, and inherent permeability can compromise performance. Furthermore, concrete is vulnerable to alkali and sulfate attacks, is relatively heavy, may experience creep under sustained loads, and typically requires skilled labor for proper installation and maintenance.
 
-&nbsp;  
-
 Concrete failures are typically categorized based on their underlying causes:
 - Chemical Failures: These involve reactions that degrade the concrete's composition, including sulfate attacks, steel corrosion, carbonation, and alkaline reactions with aggregates.
 - Physical Failures: This category includes damage from environmental and mechanical factors such as repeated freeze-thaw cycles, erosion, cavitation, salt infiltration, fire, impact, and other adverse conditions.
