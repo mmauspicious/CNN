@@ -1,6 +1,6 @@
 **Concrete Defect Image Classification**  
 
-**Applying Convolutional Neural Network (CNN) on Kaggle dataset [1].**
+**Applying Convolutional Neural Network (CNN) on Kaggle Dataset [1].**
 
 Defects in concrete structures—cosmetic or structural—can undermine overall performance and, if left unaddressed, may contribute to long-term deterioration. Although many defects start as minor issues without an immediate impact on structural integrity, their cumulative effects can pose significant safety and financial risks over time. Therefore, even seemingly negligible imperfections require prompt attention.
 
