@@ -2,8 +2,6 @@
 
 **Using Convolutional Neural Network (CNN) on Kaggle dataset [1].**
 
-&nbsp;  
-
 Defects in concrete structures—cosmetic or structural—can undermine overall performance and, if left unaddressed, may contribute to long-term deterioration. Although many defects start as minor issues without an immediate impact on structural integrity, their cumulative effects can pose significant safety and financial risks over time. Therefore, even seemingly negligible imperfections require prompt attention.
 
 A primary cause of concrete failure is an inadequate bearing capacity coupled with suboptimal behavior under diverse loading conditions. Defects accelerate deterioration by compromising the structure’s designed performance. Understanding the contributing factors to these defects and the methods for their remediation is crucial for extending a structure’s lifespan, enhancing durability, and mitigating potential risks to human safety and economic loss. Common causes include design errors, overloading, seismic activity, severe storms, and material wear.
