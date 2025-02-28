@@ -2,6 +2,8 @@
 
 **Using Convolutional Neural Network (CNN) on Kaggle dataset [1].**
 
+&nbsp;  
+
 Defects in concrete structures—cosmetic or structural—can undermine overall performance and, if left unaddressed, may contribute to long-term deterioration. Although many defects start as minor issues without an immediate impact on structural integrity, their cumulative effects can pose significant safety and financial risks over time. Therefore, even seemingly negligible imperfections require prompt attention.
 
 A primary cause of concrete failure is an inadequate bearing capacity coupled with suboptimal behavior under diverse loading conditions. Defects accelerate deterioration by compromising the structure’s designed performance. Understanding the contributing factors to these defects and the methods for their remediation is crucial for extending a structure’s lifespan, enhancing durability, and mitigating potential risks to human safety and economic loss. Common causes include design errors, overloading, seismic activity, severe storms, and material wear.
@@ -14,6 +16,8 @@ Concrete failures are typically categorized based on their underlying causes:
 - Chemical Failures: These involve reactions that degrade the concrete's composition, including sulfate attacks, steel corrosion, carbonation, and alkaline reactions with aggregates.
 - Physical Failures: This category includes damage from environmental and mechanical factors such as repeated freeze-thaw cycles, erosion, cavitation, salt infiltration, fire, impact, and other adverse conditions.
 - Execution Errors: Failures here arise from mistakes during concrete production and placement. Common issues include using uniform or inappropriate grading, improper storage of raw materials, selecting the wrong type or amount of cement, inadequate compaction, faulty processing, and excessive water in the mix.
+
+&nbsp;  
 
 This project is inspired by [https://www.tensorflow.org/tutorials/images/classification].
 
