@@ -1,6 +1,6 @@
-**Concrete Defect Image Classification**  
+**Problem Statement**
 
-**Applying Convolutional Neural Network (CNN) on Kaggle Dataset [1].**
+**Concrete Defect Image Classification**  
 
 Defects in concrete structures—cosmetic or structural—can undermine overall performance and, if left unaddressed, may contribute to long-term deterioration. Although many defects start as minor issues without an immediate impact on structural integrity, their cumulative effects can pose significant safety and financial risks over time. Therefore, even seemingly negligible imperfections require prompt attention.
 
@@ -12,6 +12,8 @@ Concrete failures are typically categorized based on their underlying causes:
 - Chemical Failures: These involve reactions that degrade the concrete's composition, including sulfate attacks, steel corrosion, carbonation, and alkaline reactions with aggregates.
 - Physical Failures: This category includes damage from environmental and mechanical factors such as repeated freeze-thaw cycles, erosion, cavitation, salt infiltration, fire, impact, and other adverse conditions.
 - Execution Errors: Failures here arise from mistakes during concrete production and placement. Common issues include using uniform or inappropriate grading, improper storage of raw materials, selecting the wrong type or amount of cement, inadequate compaction, faulty processing, and excessive water in the mix.
+
+**Applying Convolutional Neural Network (CNN) on Kaggle Dataset [1].**
 
 Convolutional Neural Networks (CNNs) are a class of deep learning models designed primarily for processing grid-like data, such as images. A key advantage of CNNs is their ability to learn salient features directly from raw pixel data, significantly reducing—or even eliminating—the need for extensive pre-processing. Traditional image processing methods often rely on filters manually designed by engineers using heuristic techniques, whereas CNNs automatically optimize these filters during training, streamlining the development process.
 
